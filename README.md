@@ -44,3 +44,7 @@ Add the following dependencies on your pubspec.yaml file
       placeHolder: Image.asset("assets/images/pdf.png",
           height: 200, width: 100),
     ),
+    
+    
+ ![image](https://user-images.githubusercontent.com/39657409/88256396-de221800-ccd8-11ea-9de5-a8d244cf247f.png)
+   
